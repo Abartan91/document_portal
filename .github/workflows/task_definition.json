@@ -28,8 +28,8 @@
       ],
       "secrets": [
         {
-          "name": "API_KEY",
-          "valueFrom": "arn:aws:secretsmanager:ap-southeast-2:298367968181:secret:api_key-i3jsam"
+          "name": "API_KEYS",
+          "valueFrom": "arn:aws:secretsmanager:ap-southeast-2:298367968181:secret:api_keys-ddkswe"
         }
         
       ],
